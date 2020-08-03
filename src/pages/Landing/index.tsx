@@ -23,10 +23,12 @@ function Landing() {
                 <div className="buttons-container">
                     <a href="#" className="study">
                         <img src={studyIcon} alt="Estudar" />
+                        Study
                     </a>
 
                     <a href="#" className="give-classes">
                         <img src={giveClassesIcon} alt="Dar Aulas" />
+                        Give Classes
                     </a>
                 </div>
                 <span className="total-connections">
