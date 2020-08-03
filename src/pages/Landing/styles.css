@@ -7,3 +7,11 @@
     color: var(--color-text-in-primary);
     background: var(--color-primary);
 }
+
+.logo-container {
+    height: 10rem;
+}
+
+.hero-image {
+    width: 100%;
+}
