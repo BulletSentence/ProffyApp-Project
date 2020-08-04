@@ -2,7 +2,11 @@ import React from 'react'
 
 function TeacherList() {
     return (
-        <h1>Teachers</h1>
+        <div id="page-teacher-list" className="container">
+            <header className="page-header">
+
+            </header>
+        </div>
     )
 }
 
