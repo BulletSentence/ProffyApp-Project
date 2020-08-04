@@ -1,8 +1,8 @@
 import React from 'react'
 import { BrowserRouter, Route } from 'react-router-dom'
-import Landing from './src/pages/Landing';
-import TeacherList from './src/pages/TeacherList';
-import TeacherForm from './src/pages/TeacherForm';
+import Landing from './pages/Landing';
+import TeacherList from './pages/TeacherList';
+import TeacherForm from './pages/TeacherForm';
 
 
 function Routes() {
@@ -14,3 +14,5 @@ function Routes() {
         </BrowserRouter>
     );
 }
+
+export default Routes;
